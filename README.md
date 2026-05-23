@@ -140,7 +140,7 @@ at_risk        — flagged students with reason, attendance %, resolution status
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/vansh-gg/Scholario.git
+git clone https://github.com/YASHRNN13/Scholario.git
 cd Scholario
 ```
 
@@ -269,5 +269,5 @@ No frontend framework — fully custom CSS and vanilla JS.
 
 <div align="center">
 <sub>Scholario · SRMIST CSE-A · DBMS Semester 4 Project</sub><br>
-<sub>Built by <strong>Vansh Ghai</strong> · SRMIST CSE-A · Batch 2024–28</sub>
+<sub>Built by <strong>Yash Gupta</strong> · SRMIST CSE-A · Batch 2024–28</sub>
 </div>
